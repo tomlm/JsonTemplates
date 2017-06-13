@@ -1,0 +1,35 @@
+﻿{
+  "str": "A String",
+  "number": 13,
+  "dt": "2017-01-12T08:28:48.0473306-08:00",
+  "boolean": true,
+  "obj": {
+    "X": "XValue",
+    "Y": 99
+  },
+  "foo": {
+    "bar": [
+      {
+        "Name": "Item1",
+        "Rating": 1,
+        "subObject": {
+          "x": 11
+        }
+      },
+      {
+        "Name": "Item2",
+        "Rating": 2,
+        "subObject": {
+          "x": 22
+        }
+      },
+      {
+        "Name": "Item3",
+        "Rating": 3,
+        "subObject": {
+          "x": 33
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+C:\source\github\JsonTemplates-net\JsonTemplates\bin\Debug\JsonTemplates.dll
+C:\source\github\JsonTemplates-net\JsonTemplates\bin\Debug\JsonTemplates.pdb
+C:\source\github\JsonTemplates-net\JsonTemplates\bin\Debug\Newtonsoft.Json.dll
+C:\source\github\JsonTemplates-net\JsonTemplates\bin\Debug\Newtonsoft.Json.xml
+C:\source\github\JsonTemplates-net\JsonTemplates\obj\Debug\JsonTemplates.NET.csprojResolveAssemblyReference.cache
+C:\source\github\JsonTemplates-net\JsonTemplates\obj\Debug\JsonTemplates.dll
+C:\source\github\JsonTemplates-net\JsonTemplates\obj\Debug\JsonTemplates.pdb

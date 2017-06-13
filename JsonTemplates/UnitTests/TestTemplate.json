@@ -1,0 +1,29 @@
+﻿{
+  // root template
+  "template": {
+    "stringBinding": "{=str}",
+    "compoundBinding": "This is a {str} an so is {foo.bar[2].Name}!",
+    "joinSimple": "This is a {foo.bar[*].Name}!",
+    "boolStringBinding": "{boolean}",
+    "boolBinding": "{=boolean}",
+    "numberStringBinding": "{number}",
+    "numberBinding": "{=number}",
+    "noBinding": "This should pass through unchanged",
+    "dateBinding": "{=dt}",
+    "dateStringBinding": "{dt}",
+    "formatBinding": "{format(dt,D)}",
+    "subObjectBinding": {
+      "title": "{foo.bar[1].Name}"
+    },
+    "simpleArray": "{=foo.bar[*].Name}",
+    "arrayTemplate": "{array(foo.bar, itemTemplate)}"
+  },
+
+  // item template used for binding array elements in arrayTemplate binding 
+  "itemTemplate": {
+    "num": "{Rating}",
+    "metadata": {
+      "title": "{Name}: {subObject.x}"
+    }
+  }
+}

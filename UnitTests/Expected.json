@@ -1,0 +1,41 @@
+﻿{
+  "stringBinding": "A String",
+  "compoundBinding": "This is a A String an so is Item3!",
+  "joinSimple": "This is a Item1, Item2, Item3!",
+  "boolStringBinding": "True",
+  "boolBinding": true,
+  "numberStringBinding": "13",
+  "numberBinding": 13,
+  "noBinding": "This should pass through unchanged",
+  "dateBinding": "2017-01-12T08:28:48.0473306-08:00",
+  "dateStringBinding": "1/12/2017 8:28:48 AM",
+  "formatBinding": "Thursday, January 12, 2017",
+  "subObjectBinding": {
+    "title": "Item2"
+  },
+  "simpleArray": [
+    "Item1",
+    "Item2",
+    "Item3"
+  ],
+  "myArray": [
+    {
+      "num": "1",
+      "metadata": {
+        "title": "Item1: 11"
+      }
+    },
+    {
+      "num": "2",
+      "metadata": {
+        "title": "Item2: 22"
+      }
+    },
+    {
+      "num": "3",
+      "metadata": {
+        "title": "Item3: 33"
+      }
+    }
+  ]
+}

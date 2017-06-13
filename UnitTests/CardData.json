@@ -1,0 +1,24 @@
+﻿{
+  "title": "Card created: publish Adaptive Card Schema",
+  "author": "Miguel Garcia",
+  "created": "2017-01-12T08:28:48.0473306-08:00",
+  "description": "Now that we have define the main rules and features of the format, we need to produce a schema and publish it to GitHub. The schema will be the starting point of our reference documentation.",
+  "facts": [
+    {
+      "name": "Board",
+      "value": "Adaptive Card"
+    },
+    {
+      "name": "List",
+      "value": "Backlog"
+    },
+    {
+      "name": "Assigned To",
+      "value": "David Claux"
+    },
+    {
+      "name": "Due date",
+      "value": "not set"
+    }
+  ]
+}
